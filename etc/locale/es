@@ -87,8 +87,8 @@
     :button_sign_in: "Ingresar"
     :enter_your_credentials: "Entre sus credenciales"
   :incoming:
-    :tagline1: "AppDirect Onetime Secret Communication App."
-    :tagline2: "Snapchat for Passwords: Keep sensitive info out of email and chat."
+    :tagline1: "AppDirect Onetime Secret Communication App"
+    :tagline2: "Snapchat for Passwords: Keep sensitive info out of your email and chat logs."
     :secret_hint: "* A secret link only works once and then disappears forever."
     :incoming_button_create: "Send to Support Staff"
     :incoming_secret_options: "Support Info"
